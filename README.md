@@ -1,2 +1,2 @@
 # wordpress
-Wordpress plugin for easy include a discussion field
+Wordpress plugin for easy include of a discussion field
